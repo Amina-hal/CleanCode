@@ -10,6 +10,7 @@ public class CalculatorTest {
         Addition addition = new Addition();
         addition.setLeft(3);
         addition.setRight(4);
+        System.out.print("test jenkins");
 
         //Acte
         Calculator calculator = new Calculator();
